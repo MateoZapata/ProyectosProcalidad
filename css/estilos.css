@@ -1,7 +1,11 @@
 body
 {
+<<<<<<< HEAD
     background: gray;
     color: black;
+=======
+    color: rgb(95, 6, 0);
+>>>>>>> footer
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -51,4 +55,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
